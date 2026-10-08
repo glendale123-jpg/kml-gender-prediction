@@ -2,7 +2,7 @@
 
 2026-1 머신러닝 수업 Kaggle 경진대회 **[KML Challenge 2026S](https://www.kaggle.com/competitions/kml-challenge-2026-s)** · 팀 프로젝트 (4인: 권지원 · 이나경 · 이성진 · 이재하)
 
-**최종 Private ROC-AUC 0.72896** (Public 0.73529) · 거래단위 stacking 피처로 Public 0.72949 → 0.73330 (제출 당시 리더보드 1위)
+**최종 Private ROC-AUC 0.72896** (Public 0.73529) · 거래단위 stacking 피처로 Public 0.72949 → 0.73330 
 
 ## 문제
 
